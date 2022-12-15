@@ -1,0 +1,9 @@
+sample kgi
+initiate
+:wq
+:q
+gh
+
+
+C
+
