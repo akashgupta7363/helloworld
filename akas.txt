@@ -3,7 +3,6 @@ initiate
 :wq
 :q
 gh
+last
 
-
-C
 
